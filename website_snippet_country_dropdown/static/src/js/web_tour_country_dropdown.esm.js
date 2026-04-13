@@ -4,7 +4,6 @@ import {registry} from "@web/core/registry";
 registry
     .category("web_tour.tours")
     .add("website_snippet_country_dropdown_tour_demo_page", {
-        test: true,
         url: "/",
         steps: () => [
             {
