@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# website
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/website&target_branch=18.0)
 [![Pre-commit Status](https://github.com/OCA/website/actions/workflows/pre-commit.yml/badge.svg?branch=18.0)](https://github.com/OCA/website/actions/workflows/pre-commit.yml?query=branch%3A18.0)
 [![Build Status](https://github.com/OCA/website/actions/workflows/test.yml/badge.svg?branch=18.0)](https://github.com/OCA/website/actions/workflows/test.yml?query=branch%3A18.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/website-18-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/website-18-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# website
 
 website
 
@@ -21,12 +22,16 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[website_altcha](website_altcha/) | 18.0.1.0.1 |  | Use self hosted privacy friendly captcha for verifying website users are not bots
+[website_analytics_matomo](website_analytics_matomo/) | 18.0.1.0.0 |  | Track website users using matomo
+[website_blog_scheduled_publication](website_blog_scheduled_publication/) | 18.0.1.0.0 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> <a href='https://github.com/CristianoMafraJunior'><img src='https://github.com/CristianoMafraJunior.png' width='32' height='32' style='border-radius:50%;' alt='CristianoMafraJunior'/></a> | Schedule blog posts publication date
+[website_breadcrumb](website_breadcrumb/) | 18.0.1.0.0 |  | Let you have breadcrumbs in website pages
 [website_cf_turnstile_login](website_cf_turnstile_login/) | 18.0.1.0.0 | <a href='https://github.com/adasatorres'><img src='https://github.com/adasatorres.png' width='32' height='32' style='border-radius:50%;' alt='adasatorres'/></a> | Add Cloudflare Turnstile captcha to login form
 [website_cookiebot](website_cookiebot/) | 18.0.1.0.0 |  | Ask for cookies consent connecting with Cookiebot
 [website_cookiefirst](website_cookiefirst/) | 18.0.2.0.0 |  | Cookiefirst integration
 [website_crm_quick_answer](website_crm_quick_answer/) | 18.0.1.0.0 |  | Add an automatic answer for contacts asking for info
-[website_form_require_legal](website_form_require_legal/) | 18.0.1.0.0 |  | Add possibility to require confirm legal terms.
-[website_forum_subscription](website_forum_subscription/) | 18.0.1.0.0 |  | Adds a button to allow subscription from the website
+[website_form_require_legal](website_form_require_legal/) | 18.0.1.0.2 |  | Add possibility to require confirm legal terms.
+[website_forum_subscription](website_forum_subscription/) | 18.0.1.0.2 |  | Adds a button to allow subscription from the website
 [website_google_tag_manager](website_google_tag_manager/) | 18.0.1.0.0 |  | Add support for Google Tag Manager
 [website_legal_page](website_legal_page/) | 18.0.1.0.0 |  | Website Legal Page
 [website_menu_by_user_status](website_menu_by_user_status/) | 18.0.1.0.0 |  | Allow to manage the display of website.menus
