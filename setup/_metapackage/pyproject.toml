@@ -1,15 +1,22 @@
 [project]
 name = "odoo-addons-oca-website"
-version = "18.0.20260406.0"
+version = "18.0.20260917.0"
 dependencies = [
+    "odoo-addon-website_altcha==18.0.*",
+    "odoo-addon-website_analytics_matomo==18.0.*",
+    "odoo-addon-website_blog_scheduled_publication==18.0.*",
+    "odoo-addon-website_breadcrumb==18.0.*",
     "odoo-addon-website_cf_turnstile_login==18.0.*",
     "odoo-addon-website_cookiebot==18.0.*",
     "odoo-addon-website_cookiefirst==18.0.*",
     "odoo-addon-website_crm_quick_answer==18.0.*",
+    "odoo-addon-website_event_altcha==18.0.*",
+    "odoo-addon-website_exclude_sitemap==18.0.*",
     "odoo-addon-website_form_require_legal==18.0.*",
     "odoo-addon-website_forum_subscription==18.0.*",
     "odoo-addon-website_google_tag_manager==18.0.*",
     "odoo-addon-website_legal_page==18.0.*",
+    "odoo-addon-website_llms==18.0.*",
     "odoo-addon-website_menu_by_user_status==18.0.*",
     "odoo-addon-website_odoo_debranding==18.0.*",
     "odoo-addon-website_partner_form==18.0.*",
@@ -18,6 +25,7 @@ dependencies = [
     "odoo-addon-website_search_header==18.0.*",
     "odoo-addon-website_select2==18.0.*",
     "odoo-addon-website_snippet_country_dropdown==18.0.*",
+    "odoo-addon-website_social_media_link==18.0.*",
     "odoo-addon-website_user_login_redirect_custom==18.0.*",
     "odoo-addon-website_whatsapp==18.0.*",
 ]
