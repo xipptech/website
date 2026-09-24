@@ -22,18 +22,21 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[website_altcha](website_altcha/) | 18.0.1.0.1 |  | Use self hosted privacy friendly captcha for verifying website users are not bots
+[website_altcha](website_altcha/) | 18.0.1.1.0 | <a href='https://github.com/hbrunn'><img src='https://github.com/hbrunn.png' width='32' height='32' style='border-radius:50%;' alt='hbrunn'/></a> | Use self hosted privacy friendly captcha for verifying website users are not bots
 [website_analytics_matomo](website_analytics_matomo/) | 18.0.1.0.0 |  | Track website users using matomo
-[website_blog_scheduled_publication](website_blog_scheduled_publication/) | 18.0.1.0.0 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> <a href='https://github.com/CristianoMafraJunior'><img src='https://github.com/CristianoMafraJunior.png' width='32' height='32' style='border-radius:50%;' alt='CristianoMafraJunior'/></a> | Schedule blog posts publication date
+[website_blog_scheduled_publication](website_blog_scheduled_publication/) | 18.0.1.1.0 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> <a href='https://github.com/CristianoMafraJunior'><img src='https://github.com/CristianoMafraJunior.png' width='32' height='32' style='border-radius:50%;' alt='CristianoMafraJunior'/></a> | Schedule blog posts publication date
 [website_breadcrumb](website_breadcrumb/) | 18.0.1.0.0 |  | Let you have breadcrumbs in website pages
 [website_cf_turnstile_login](website_cf_turnstile_login/) | 18.0.1.0.0 | <a href='https://github.com/adasatorres'><img src='https://github.com/adasatorres.png' width='32' height='32' style='border-radius:50%;' alt='adasatorres'/></a> | Add Cloudflare Turnstile captcha to login form
 [website_cookiebot](website_cookiebot/) | 18.0.1.0.0 |  | Ask for cookies consent connecting with Cookiebot
 [website_cookiefirst](website_cookiefirst/) | 18.0.2.0.0 |  | Cookiefirst integration
 [website_crm_quick_answer](website_crm_quick_answer/) | 18.0.1.0.0 |  | Add an automatic answer for contacts asking for info
+[website_event_altcha](website_event_altcha/) | 18.0.1.1.0 | <a href='https://github.com/hbrunn'><img src='https://github.com/hbrunn.png' width='32' height='32' style='border-radius:50%;' alt='hbrunn'/></a> | Support event registration with ALTCHA
+[website_exclude_sitemap](website_exclude_sitemap/) | 18.0.1.0.0 |  | Exclude addresses from the sitemap.xml file according to the values defined in the configuration
 [website_form_require_legal](website_form_require_legal/) | 18.0.1.0.2 |  | Add possibility to require confirm legal terms.
 [website_forum_subscription](website_forum_subscription/) | 18.0.1.0.2 |  | Adds a button to allow subscription from the website
 [website_google_tag_manager](website_google_tag_manager/) | 18.0.1.0.0 |  | Add support for Google Tag Manager
 [website_legal_page](website_legal_page/) | 18.0.1.0.0 |  | Website Legal Page
+[website_llms](website_llms/) | 18.0.1.0.0 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> | This module adds support for serving a /llms.txt file in the website root. The content can be configured per website in the website settings.
 [website_menu_by_user_status](website_menu_by_user_status/) | 18.0.1.0.0 |  | Allow to manage the display of website.menus
 [website_odoo_debranding](website_odoo_debranding/) | 18.0.1.0.0 |  | Remove Odoo Branding from Website
 [website_partner_form](website_partner_form/) | 18.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Allow to edit partner website fields on partner form view, in the back office
@@ -42,6 +45,7 @@ addon | version | maintainers | summary
 [website_search_header](website_search_header/) | 18.0.1.0.0 |  | Website Search in Header
 [website_select2](website_select2/) | 18.0.1.0.0 | <a href='https://github.com/hbrunn'><img src='https://github.com/hbrunn.png' width='32' height='32' style='border-radius:50%;' alt='hbrunn'/></a> | Integrate select2 in Odoo websites
 [website_snippet_country_dropdown](website_snippet_country_dropdown/) | 18.0.1.0.1 |  | Allow to select country in a dropdown
+[website_social_media_link](website_social_media_link/) | 18.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Display Social Medial Links on Website back-end.
 [website_user_login_redirect_custom](website_user_login_redirect_custom/) | 18.0.1.0.0 |  | Redirect website/portal user to custom URL after login or signup
 [website_whatsapp](website_whatsapp/) | 18.0.1.0.1 | <a href='https://github.com/ioans73'><img src='https://github.com/ioans73.png' width='32' height='32' style='border-radius:50%;' alt='ioans73'/></a> | Whatsapp integration
 
